@@ -27,7 +27,19 @@ int main(void){
         outputArray[j] = pow(inputArray[j], n);
         printf("%d ", outputArray[j]);
     }
-    printf("\n");
+    printf("\n");    
+    //assume max is first element
+    int maximum = outputArray[0];
+
+    for (int j = 0; j <ARRAY_SIZE; j++){
+        if (outputArray[j] > maximum){
+            maximum = outputArray[j]; //to update if bigger
+        }
+    }
+    printf("Maximum value in output array: %d", maximum);
+
+    return 0;
+}
 
     return 0;
 }
