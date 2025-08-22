@@ -6,3 +6,5 @@ C projects made from studies
 4. Print Rectangle 5x10
 5. Print trapezium
 6. Array Convertor to the nth power
+7. 3 Word Reverser
+8. 
