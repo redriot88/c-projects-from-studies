@@ -5,4 +5,4 @@ C projects made from studies
 3. Factorial Calculator
 4. Print Rectangle 5x10
 5. Print trapezium
-6.
+6. Array Convertor to the nth power
