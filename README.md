@@ -7,4 +7,5 @@ C projects made from studies
 5. Print trapezium
 6. Array Convertor to the nth power
 7. 3 Word Reverser
-8. 
+8. Palindrome analyser
+9. 
