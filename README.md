@@ -8,6 +8,7 @@ C projects made from studies
 6. Array Convertor to the nth power
 7. 3 Word Reverser
 8. Palindrome analyser
-9. Cricket structures (to generate strucutres)
+9. Cricket structures (to generate structures)
 10. Cricket Functions (functions practice to compare values)
-11. 
+11. Function that prints 1st letter of player name to a text file.
+12. 
