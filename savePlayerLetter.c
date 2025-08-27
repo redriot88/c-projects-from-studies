@@ -15,7 +15,7 @@ int savePlayerName (player_t p, char filename []){
     }
     fprintf(fp, "%c\n", p.letter); //to write player's letter
     fclose(fp);
-    return 0; //return 1 for success
+    return 0; //return 0 for success
 }
 
 int main(void){
