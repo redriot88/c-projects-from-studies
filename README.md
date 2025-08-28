@@ -10,5 +10,5 @@ C projects made from studies
 8. Palindrome analyser
 9. Cricket structures (to generate structures)
 10. Cricket Functions (functions practice to compare values)
-11. Function that prints 1st letter of player name to a text file.
+11. Function that prints 1st letter of player name to a text file (v1 and v2).
 12. 
