@@ -12,4 +12,5 @@ C projects made from studies
 10. Cricket Functions (functions practice to compare values)
 11. Function that prints 1st letter of player name to a text file (v1 and v2).
 12. Function that reads the 1st letter of a player name to a text file (v1 and v2).
-13. 
+13. Duplicate Letter Checker.
+14. 
